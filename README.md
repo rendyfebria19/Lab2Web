@@ -3,7 +3,7 @@
 - Nim : 311910612
 - Kelas : TI 19.A.3
 
-#PERTANYAAN DAN TUGAS
+# PERTANYAAN DAN TUGAS
 - Lakukan eksperimen dengan mengubah dan menambah properti dan nilai pada kode CSS
   dengan mengacu pada CSS Cheat Sheet yang diberikan pada file terpisah dari modul ini.
   >Jawab : Merubah warna background pada judul css internal in lane, dan merubah rata tengah pada hello world serta merubah warna background pada paragraf.
@@ -27,7 +27,7 @@
 
 
 
-#Penjelasan dari setiap langkah praktikum css
+# Penjelasan dari setiap langkah praktikum css
 
 1. Menjalankan HTML dan CSS di Subline, serta menambahkan judul serta paragraf
 ![1](https://user-images.githubusercontent.com/59887134/113430272-10f1e380-9404-11eb-97ba-ceb339e1695c.png)
