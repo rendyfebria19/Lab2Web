@@ -16,7 +16,11 @@
 - Apabila ada deklarasi CSS secara internal, lalu ditambahkan CSS eksternal dan inline CSS pada
   elemen yang sama. Deklarasi manakah yang akan ditampilkan pada browser? Berikan
   penjelasan dan contohnya!
-  >Jawab :
+  >Jawab : semua deklarasi css secara internal, css eksternal, dan inlane css dapat ditambilkan semua pada browser walaupun di elemen yang sama. dengan menambahkan dengan benar
+  >![5](https://user-images.githubusercontent.com/59887134/113438133-2968fa80-9412-11eb-878b-a2d1add92ca2.png)
+  >![9](https://user-images.githubusercontent.com/59887134/113438202-49002300-9412-11eb-9747-4a7b5b1fd903.png)
+  > ![10](https://user-images.githubusercontent.com/59887134/113438213-4f8e9a80-9412-11eb-90c7-d048012f7769.png)
+ 
   
 - Pada sebuah elemen HTML terdapat ID dan Class, apabila masing-masing selector tersebut
   terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browser?
