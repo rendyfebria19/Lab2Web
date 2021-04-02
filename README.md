@@ -8,8 +8,20 @@ PERTANYAAN DAN TUGAS
   dengan mengacu pada CSS Cheat Sheet yang diberikan pada file terpisah dari modul ini.
   >Jawab : Merubah warna background pada judul css internal in lane, dan merubah rata tengah pada hello world serta merubah warna background pada paragraf.
   ![EDit](https://user-images.githubusercontent.com/59887134/113432916-69c37b00-9408-11eb-9c63-4ca35362c1fd.png)
-
-
+  
+- Apa perbedaan pendeklarasian CSS elemen h1 {...} dengan #intro h1 {...}? berikan
+  penjelasannya!
+  >Jawab :
+  
+- Apabila ada deklarasi CSS secara internal, lalu ditambahkan CSS eksternal dan inline CSS pada
+  elemen yang sama. Deklarasi manakah yang akan ditampilkan pada browser? Berikan
+  penjelasan dan contohnya!
+  >Jawab :
+  
+- Pada sebuah elemen HTML terdapat ID dan Class, apabila masing-masing selector tersebut
+  terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browser?
+  Berikan penjelasan dan contohnya! ( <p id="paragraf-1" class="text-paragraf"> )
+  >Jawab :
 
 
 Penjelasan dari setiap langkah praktikum css
